@@ -24,7 +24,7 @@ Currently studying information technology at RMIT, I am seeking new skills and e
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### Things I'm learning
+### Things I'm trying to know
 
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
